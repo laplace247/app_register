@@ -2,10 +2,6 @@
 
 Agregar una conexion a la api de gandy
 
-### Amarillo
-* Juan Piero
-* Duilio Flores
-
 ## 📱 Capturas de pantalla
 
 ![estudiante](https://raw.githubusercontent.com/juanitoeldesastre/LoginUI/main/captures/login_estudiante.PNG)
@@ -18,5 +14,3 @@ Agregar una conexion a la api de gandy
 - **Jetpack Compose**
 - **Android Studio**
 - **Material 3**
-
-## 🚧 En Construccion

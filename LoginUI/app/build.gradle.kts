@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.juanitodev.loginui"
+    namespace = "com.appregister.loginui"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.juanitodev.loginui"
+        applicationId = "com.appregister.loginui"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
