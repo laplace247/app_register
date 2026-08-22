@@ -11,5 +11,5 @@ Creacion views de logueo y agregar una conexion a la api de Gandi
 
 ## 📱 Capturas de pantalla
 
-![estudiante](images/login_estudiante.jpg)
-![vigilante](images/login_vigilante.jpg)
+![Screenshot](Images/login_estudiante.jpg)
+![Screenshot](Images/login_vigilante.jpg)
