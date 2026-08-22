@@ -1,16 +1,17 @@
 # Interfaz de Login en Kotlin
 
-Agregar una conexion a la api de gandy
+Creacion views de logueo y agregar una conexion a la api de Gandi
 
-## 📱 Capturas de pantalla
-
-![estudiante](https://raw.githubusercontent.com/juanitoeldesastre/LoginUI/main/captures/login_estudiante.PNG)
-![welcome](https://raw.githubusercontent.com/juanitoeldesastre/LoginUI/main/captures/welcome.PNG)
-![vigilante](https://raw.githubusercontent.com/juanitoeldesastre/LoginUI/main/captures/login_vigilante.PNG)
-
-## 🛠️Tecnologías
+## 🛠️ Tecnologías
 
 - **Kotlin**
 - **Jetpack Compose**
 - **Android Studio**
 - **Material 3**
+
+## 📱 Capturas de pantalla
+
+![welcome](welcome.jpg)
+![estudiante](login_estudiante.jpg)
+![vigilante](login_vigilante.jpg)
+![completed](access_completed.jpg)
